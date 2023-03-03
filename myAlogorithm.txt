@@ -1,0 +1,8 @@
+Step 1: Create the folder
+Step 2: Create the file
+Step 3: Open the folder in VS Code
+Step 4: Make changes to the file and SAVE!!
+Step 5: Initialize that folder as a Git Repository
+Step 6: Stage the changes
+Step 7: Commit the changes
+Step 8: Push the changes to Github (you need to already have made the Github Repository!)
