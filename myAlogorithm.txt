@@ -1,5 +1,5 @@
 Step 1: Create the folder
-Step 2: Create the file
+Step 2: Create the file inside of the folder
 Step 3: Open the folder in VS Code
 Step 4: Make changes to the file and SAVE!!
 Step 5: Initialize that folder as a Git Repository
